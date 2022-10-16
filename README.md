@@ -1,6 +1,8 @@
 # Tap Social
 
-🔗 Introduce a brand new social connection way - NFC Tap Social 🎉
+🔗 Introduce a brand new way for social connection - NFC Tap Social 🎉
+
+<img src="/banner.png" alt="banner" />
 
 ## 💡 Project Introduction
 
